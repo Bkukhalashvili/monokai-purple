@@ -1,0 +1,21 @@
+{
+  "name": "monokai-purple",
+  "displayName": "Monokai Purple",
+  "description": "More colorful edit of monokai simple theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Purple-color-theme.json"
+      }
+    ]
+  }
+}
