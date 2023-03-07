@@ -63,9 +63,7 @@
     "editor.findMatchBorder": "#b4b4b480",
     "editor.findMatchHighlightBackground": "#eeeeee44",
     "editor.foreground": "#dbdbdb",
-    "editor.inactiveSelectionBackground": "#261d8f",
-    "editor.lineHighlightBorder": "#b4b4b480",
-    "editor.selectionBackground": "#261d8f",
+    "editor.selectionBackground": "#3e4451",
     "editor.selectionForeground": "#000c18",
 
     // diff editor (e.g git diff)
@@ -89,9 +87,9 @@
 
     "editorIndentGuide.activeBackground": "#505050",
 
-    // editor line number
-    "editorLineNumber.activeForeground": "#881798",
-    "editorLineNumber.foreground": "#8f8f8f",
+    // editor line number and  highlight
+    "editorLineNumber.foreground": "#495162",
+    "editor.lineHighlightBackground": "#1d1f23",
 
     // color of active link
     "editorLink.activeForeground": "#0298fc",
@@ -143,17 +141,13 @@
     // terminal
     "terminal.background": "#000",
     "terminal.ansiBlack": "#8f8f8f",
-    "terminal.ansiBlue": "#5ccaef",
     "terminal.ansiBrightBlack": "#8f8f8f",
-    "terminal.ansiBrightBlue": "#5ccaef",
-    "terminal.ansiBrightCyan": "#25c3df",
-    "terminal.ansiBrightGreen": "#a5db11",
+    "terminal.ansiBrightGreen": "#4db111",
     "terminal.ansiBrightMagenta": "#f57f00",
     "terminal.ansiBrightRed": "#f82a5d",
     "terminal.ansiBrightWhite": "#f1f1f1",
     "terminal.ansiBrightYellow": "#e7dc60",
-    "terminal.ansiCyan": "#25c3df",
-    "terminal.ansiGreen": "#a5db11",
+    "terminal.ansiGreen": "#4db111",
     "terminal.ansiMagenta": "#f57f00",
     "terminal.ansiRed": "#f82a5d",
     "terminal.ansiWhite": "#f1f1f1",
