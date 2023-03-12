@@ -3,6 +3,17 @@
   "displayName": "Monokai Purple",
   "description": "More colorful edit of monokai simple theme",
   "version": "0.0.1",
+  "publisher": "Bkukhalashvili",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bkukhalashvili/monokai-purple"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "monokai",
+    "purple"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
