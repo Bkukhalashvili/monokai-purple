@@ -2,8 +2,9 @@
   "name": "monokai-purple",
   "displayName": "Monokai Purple",
   "description": "More colorful edit of monokai simple theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "Bkukhalashvili",
+  "icon": "screenshot.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Bkukhalashvili/monokai-purple"
