@@ -2,17 +2,12 @@
   "name": "Monokai Purple",
   "type": "dark",
   "colors": {
-    //##### TITLE BAR #####//
     "titleBar.activeBackground": "#000",
     "titleBar.activeForeground": "#ccc",
     "titleBar.border": "#b4b4b480",
     "titleBar.inactiveBackground": "#000",
     "titleBar.inactiveForeground": "#8f8f8f",
-
-    // quick menu
     "quickInput.background": "#111213",
-
-    //##### TABS #####//
     "tab.activeBackground": "#401143",
     "tab.activeForeground": "#dbdbdb",
     "tab.activeModifiedBorder": "#b4b4b480",
@@ -24,11 +19,7 @@
     "tab.unfocusedActiveBorder": "#111213",
     "tab.unfocusedActiveForeground": "#dbdbdb",
     "tab.unfocusedInactiveForeground": "#dbdbdb",
-
-    // breadcrumbs navigation (small nav below tabs)
     "breadcrumb.foreground": "#8f8f8f",
-
-    //##### SIDEBAR #####//
     "sideBar.background": "#111213",
     "sideBar.border": "#b4b4b480",
     "sideBar.foreground": "#dbdbdb",
@@ -37,26 +28,20 @@
     "sideBarSectionHeader.border": "#b4b4b480",
     "sideBarSectionHeader.foreground": "#8f8f8f",
     "sideBarTitle.foreground": "#8f8f8f",
-    // activity bar (sidebar)
     "activityBar.background": "#111213",
     "activityBar.border": "#b4b4b480",
     "activityBar.foreground": "#8f8f8f",
     "activityBar.inactiveForeground": "#b4b4b480",
     "activityBarBadge.background": "#111213",
     "activityBarBadge.foreground": "#8f8f8f",
-    // list of files in sidebar
     "list.activeSelectionBackground": "#401143",
     "list.hoverBackground": "#b3b3b315",
     "list.inactiveSelectionBackground": "#2d0c2f",
     "list.focusBackground": "#b4b4b480",
-
-    // button widgets such as Open Folder button
     "button.background": "#111213",
     "button.foreground": "#ddd",
     "button.hoverBackground": "#401143",
     "checkbox.border": "#b4b4b480",
-
-    //##### EDITOR (MAIN SCREEN) #####//
     "editor.background": "#111213",
     "editor.findMatchBackground": "#261d8f",
     "editor.findMatchBorder": "#b4b4b480",
@@ -64,60 +49,36 @@
     "editor.foreground": "#dbdbdb",
     "editor.selectionBackground": "#3e4451",
     "editor.selectionForeground": "#000c18",
-
-    // diff editor (e.g git diff)
     "diffEditor.insertedTextBackground": "#31958a55",
     "diffEditor.insertedTextBorder": "#31958a55",
     "diffEditor.removedTextBackground": "#892f4688",
     "diffEditor.removedTextBorder": "#31958a55",
-
-    //  containers of editors
     "editorGroup.border": "#b4b4b480",
     "editorGroupHeader.border": "#111213",
     "editorGroupHeader.noTabsBackground": "#111213",
     "editorGroupHeader.tabsBackground": "#111213",
     "editorGroupHeader.tabsBorder": "#b4b4b480",
-
-    // hints in the editor
     "editorHint.foreground": "#43b9d8",
-    // text hover menu
     "editorHoverWidget.background": "#111213",
     "editorHoverWidget.border": "#b4b4b480",
-
     "editorIndentGuide.activeBackground": "#505050",
-
-    // editor line number and  highlight
     "editorLineNumber.foreground": "#495162",
     "editor.lineHighlightBackground": "#1d1f23",
-
-    // color of active link
     "editorLink.activeForeground": "#0298fc",
-
-    // Editor marker navigation
     "editorMarkerNavigation.background": "#060621",
     "editorMarkerNavigationError.background": "#ca5b7c",
     "editorMarkerNavigationWarning.background": "#787c7b",
-
-    // suggest menu during typing
     "editorSuggestWidget.background": "#111213",
     "editorSuggestWidget.border": "#8f8f8f",
     "editorSuggestWidget.foreground": "#dbdbdb",
     "editorSuggestWidget.highlightForeground": "#2eb2d3",
     "editorSuggestWidget.selectedBackground": "#b4b4b480",
-
-    // color of editor widgets, such as find/replace.
     "editorWidget.background": "#111213",
     "editorWidget.border": "#111213",
-
-    // Border color on headers and the splitter in inline merge conflicts
     "merge.border": "#b4b4b480",
-
-    // Peek view (e.g Peek Definition)
     "peekView.border": "#b4b4b480",
     "peekViewTitle.background": "#111213",
     "peekViewTitleLabel.foreground": "#dbdbdb",
-
-    // status bar
     "statusBar.background": "#000",
     "statusBar.border": "#111213",
     "statusBarItem.hoverBackground": "#401143",
@@ -128,16 +89,12 @@
     "statusBar.noFolderBackground": "#111213",
     "statusBar.noFolderForeground": "#8f8f8f",
     "statusBar.noFolderBorder": "#b4b4b480",
-
-    // panel (opened status bar)
     "panel.background": "#000",
     "panel.border": "#b4b4b480",
     "panel.dropBorder": "#8f8f8f",
     "panelSection.border": "#b4b4b480",
     "panelTitle.activeForeground": "#ccc",
     "panelTitle.inactiveForeground": "#8f8f8f",
-
-    // terminal
     "terminal.background": "#000",
     "terminal.ansiBlack": "#8f8f8f",
     "terminal.ansiBrightBlack": "#8f8f8f",
@@ -152,55 +109,33 @@
     "terminal.ansiWhite": "#f1f1f1",
     "terminal.ansiYellow": "#e7dc60",
     "terminal.border": "#b4b4b480",
-
-    //##### GLOBAL #####//
-    // additional borders around items across the UI
     "contrastActiveBorder": "#111213",
     "contrastBorder": "#b4b4b480",
-
-    // dropdown widgets (e.g in panel > output)
     "dropdown.background": "#111213",
     "dropdown.border": "#b4b4b480",
     "dropdown.foreground": "#dbdbdb",
-
-    // Overall border color for focused elements
     "focusBorder": "#b4b4b480",
-    // Overall foreground color
     "foreground": "#dbdbdb",
-    //The default color for icons in the workbench.
     "icon.foreground": "#dbdbdb",
-
-    // input elements in vscode
     "input.background": "#111213",
     "input.border": "#b4b4b480",
     "input.foreground": "#dbdbdb",
     "input.placeholderForeground": "#b4b4b480",
-
-    // dropdown menus
     "menu.background": "#111213",
     "menu.border": "#b4b4b480",
-
-    // small information labels (e.g problems in panel)
     "badge.background": "#111213",
     "badge.foreground": "#8f8f8f",
-
-    // debug colors
     "debugExceptionWidget.background": "#111213",
     "debugExceptionWidget.border": "#8f8f8f",
     "debugToolBar.background": "#111213",
     "debugToolBar.border": "#8f8f8f",
-
-    // Notification toasts
     "notificationCenter.border": "#8f8f8f",
     "notificationCenterHeader.background": "#111213",
     "notificationCenterHeader.foreground": "#dbdbdb",
     "notifications.background": "#111213",
     "notifications.border": "#b4b4b480",
     "notifications.foreground": "#dbdbdb",
-
-    // git colors
     "gitDecoration.addedResourceForeground": "#1b5225",
-    // "gitDecoration.modifiedResourceForeground": "#c4166d",
     "gitDecoration.modifiedResourceForeground": "#d2ed09",
     "gitDecoration.deletedResourceForeground": "#d8810f",
     "gitDecoration.untrackedResourceForeground": "#7b84ff",
