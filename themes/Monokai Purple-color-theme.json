@@ -14,7 +14,6 @@
 
     //##### TABS #####//
     "tab.activeBackground": "#401143",
-    "tab.activeBorder": "#111213",
     "tab.activeForeground": "#dbdbdb",
     "tab.activeModifiedBorder": "#b4b4b480",
     "tab.border": "#b4b4b480",
@@ -473,6 +472,19 @@
       ],
       "settings": {
         "foreground": "#dbdbdb"
+      }
+    },
+    {
+      "scope": ["meta.embedded.line"],
+      "settings": {
+        "foreground": "#abb2bf"
+      }
+    },
+    {
+      "name": "Library class/type",
+      "scope": ["support.type", "support.variable"],
+      "settings": {
+        "foreground": "#56b6c2"
       }
     },
     {
